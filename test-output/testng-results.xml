@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30093" started-at="2020-05-27T15:06:01Z" finished-at="2020-05-27T15:06:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30093" started-at="2020-05-27T15:06:01Z" finished-at="2020-05-27T15:06:31Z">
+      <class name="com.pomproject.testcases.Testcase1">
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.pomproject.testcases.Testcase1@1460a8c0]" name="launchurl" is-config="true" duration-ms="8184" started-at="2020-05-27T20:36:01Z" finished-at="2020-05-27T20:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:com.pomproject.testcases.Testcase1@1460a8c0]" name="tc1" duration-ms="20658" started-at="2020-05-27T20:36:09Z" finished-at="2020-05-27T20:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="closethebrowser()[pri:0, instance:com.pomproject.testcases.Testcase1@1460a8c0]" name="closethebrowser" is-config="true" duration-ms="1220" started-at="2020-05-27T20:36:30Z" finished-at="2020-05-27T20:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closethebrowser -->
+      </class> <!-- com.pomproject.testcases.Testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
